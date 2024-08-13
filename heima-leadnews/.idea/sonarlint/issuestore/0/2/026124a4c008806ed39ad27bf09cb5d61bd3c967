@@ -1,0 +1,12 @@
+
+`	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(™¯´ıÿÿÿÿ
+`	java:S112j"FDefine and throw a dedicated exception instead of using a generic one.(™¯´ıÿÿÿÿ
+n	java:S115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ğ½Ş{
+Z
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.(Ğ½Ş{
+V
+java:S1854":Remove this useless assignment to local variable "bucket".(Ò“Şüÿÿÿÿ
+G
+java:S1481"+Remove this unused "bucket" local variable.(Ò“Şüÿÿÿÿ
+E
+java:S1940œ")Use the opposite operator ("<=") instead.(Ç‘îûÿÿÿÿ

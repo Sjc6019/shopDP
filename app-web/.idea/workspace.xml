@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c618c72-4ef5-4e40-8fd2-b966d2ffd258" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-app-gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-common/src/main/java/com/heima/common/swagger/Swagger2Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-common/src/main/java/com/heima/common/swagger/SwaggerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-gateway/heima-leadnews-app-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-gateway/heima-leadnews-app-gateway/src/main/java/com/heima/app/gateway/AppGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-gateway/heima-leadnews-app-gateway/src/main/java/com/heima/app/gateway/filter/AuthorizeFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-gateway/heima-leadnews-app-gateway/src/main/java/com/heima/app/gateway/util/AppJwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-gateway/heima-leadnews-app-gateway/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/user/dtos/LoginDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/user/pojos/ApUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-service/heima-leadnews-user/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-service/heima-leadnews-user/src/main/java/com/heima/user/UserApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-service/heima-leadnews-user/src/main/java/com/heima/user/controller/ApUserLoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-service/heima-leadnews-user/src/main/java/com/heima/user/mapper/ApUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-service/heima-leadnews-user/src/main/java/com/heima/user/service/ApUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-service/heima-leadnews-user/src/main/java/com/heima/user/service/impl/ApUserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-service/heima-leadnews-user/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-service/heima-leadnews-user/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-user.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-common/heima-leadnews-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-common/heima-leadnews-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-common/src/main/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-common/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-common/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-common/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-common/target/classes/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-common/target/classes/META-INF/spring.factories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-common/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-common/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-feign-api/heima-leadnews-feign-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-feign-api/heima-leadnews-feign-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-gateway/heima-leadnews-gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-gateway/heima-leadnews-gateway.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-model/heima-leadnews-model.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-model/heima-leadnews-model.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-model/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-model/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-service/heima-leadnews-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-service/heima-leadnews-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-test/heima-leadnews-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-test/heima-leadnews-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-utils/heima-leadnews-utils.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-utils/heima-leadnews-utils.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews-utils/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima-leadnews/heima-leadnews.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2kL00dsI5ui5YQsOWdrIIRZO9N3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/shopDP/app-web"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="7c618c72-4ef5-4e40-8fd2-b966d2ffd258" name="更改" comment="" />
+      <created>1723047327256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723047327256</updated>
+      <workItem from="1723047328455" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
