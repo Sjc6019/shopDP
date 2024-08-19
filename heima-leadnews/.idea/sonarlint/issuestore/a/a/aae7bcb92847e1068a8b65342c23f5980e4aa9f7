@@ -1,0 +1,20 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Üº@
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Üº@
+x
+java:S1488ê
+"\Immediately return this expression instead of assigning it to the temporary variable "keys".( ¦Œãüÿÿÿÿ
+{
+java:S1488€"_Immediately return this expression instead of assigning it to the temporary variable "results".(Ş£¸¶ùÿÿÿÿ
+{
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "objects".(ÀÊŒçÿÿÿÿÿ
+e
+java:S2259Á"NA "NullPointerException" could be thrown; "multiSetIfAbsent" is nullable here.(“†Õ
+a
+java:S2259¨"EA "NullPointerException" could be thrown; "factory" is nullable here.(÷¾Œ…øÿÿÿÿ
+e
+java:S2259˜"IA "NullPointerException" could be thrown; "setIfAbsent" is nullable here.(ãñúÿÿÿÿ
+[
+java:S2259³"DA "NullPointerException" could be thrown; "result" is nullable here.(ÖÕáÖ
+`
+java:S2259ş"DA "NullPointerException" could be thrown; "setBit" is nullable here.(ê­³ëûÿÿÿÿ

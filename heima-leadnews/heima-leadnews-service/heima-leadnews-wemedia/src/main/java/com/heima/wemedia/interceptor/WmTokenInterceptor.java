@@ -12,14 +12,6 @@ import java.util.Optional;
 
 @Slf4j
 public class WmTokenInterceptor implements HandlerInterceptor {
-    /**
-     * 得到header中的信息，把用户id存入当前线程中
-     * @param request
-     * @param response
-     * @param handler
-     * @return
-     * @throws Exception
-     */
     @Override
     public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
         //得到header中的信息
@@ -41,17 +33,9 @@ public class WmTokenInterceptor implements HandlerInterceptor {
         WmThreadLocalUtil.clear();
     }
 
-    /**
-     * 清理线程中的数据
-     * @param request
-     * @param response
-     * @param handler
-     * @param modelAndView
-     * @throws Exception
-     */
-    @Override
+    /*@Override
     public void postHandle(HttpServletRequest request, HttpServletResponse response, Object handler, ModelAndView modelAndView) throws Exception {
         log.info("清理threadlocal...");
-//        WmThreadLocalUtil.clear();
-    }
+        WmThreadLocalUtil.clear();
+    }*/
 }

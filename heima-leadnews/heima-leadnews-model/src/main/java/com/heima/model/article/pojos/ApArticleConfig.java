@@ -22,6 +22,7 @@ import java.io.Serializable;
 @TableName("ap_article_config")
 public class ApArticleConfig implements Serializable {
 
+
     public ApArticleConfig(Long articleId){
         this.articleId = articleId;
         this.isComment = true;

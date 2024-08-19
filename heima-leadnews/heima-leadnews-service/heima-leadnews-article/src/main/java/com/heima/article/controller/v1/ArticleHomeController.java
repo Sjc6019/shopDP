@@ -18,9 +18,15 @@ public class ArticleHomeController {
     @Autowired
     private ApArticleService apArticleService;
 
+    /**
+     * 加载首页
+     * @param dto
+     * @return
+     */
     @PostMapping("/load")
-    public ResponseResult load(@RequestBody ArticleHomeDto dto) {
-        return apArticleService.load(ArticleConstants.LOADTYPE_LOAD_MORE,dto);
+    public ResponseResult load(@RequestBody ArticleHomeDto dto){
+        //        return apArticleService.load(dto, ArticleConstants.LOADTYPE_LOAD_MORE);
+        return apArticleService.load2(dto, ArticleConstants.LOADTYPE_LOAD_MORE,true);
     }
 
     @PostMapping("/loadmore")

@@ -14,7 +14,7 @@ import java.util.Date;
  * 频道信息表
  * </p>
  *
- * @author shaojuncheng
+ * @author itheima
  */
 @Data
 @TableName("wm_channel")

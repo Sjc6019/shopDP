@@ -21,4 +21,7 @@ public interface WmMaterialService extends IService<WmMaterial> {
      * @return
      */
     public ResponseResult findList( WmMaterialDto dto);
+
+
+
 }

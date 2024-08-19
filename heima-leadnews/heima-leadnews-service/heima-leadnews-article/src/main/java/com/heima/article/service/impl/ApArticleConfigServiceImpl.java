@@ -30,7 +30,8 @@ public class ApArticleConfigServiceImpl extends ServiceImpl<ApArticleConfigMappe
             isDown = false;
         }
         //修改文章配置
-        update(Wrappers.<ApArticleConfig>lambdaUpdate().eq(ApArticleConfig::getArticleId,map.get("articleId")).set(ApArticleConfig::getIsDown,isDown));
+        update(Wrappers.<ApArticleConfig>lambdaUpdate().eq(ApArticleConfig::getArticleId,map.get("articleId"))
+                .set(ApArticleConfig::getIsDown,isDown));
 
     }
 }
